@@ -71,26 +71,6 @@ Object-Oriented Programming
 
 Java Modules
 
-▶️ How to Run
-
-1️⃣ Clone the repository
-
-git clone https://github.com/LAVANYAB59/BrickBreaker.git
-
-2️⃣ Open the project
-
-Open the project in any Java IDE such as:
-
-Eclipse
-
-IntelliJ IDEA
-
-VS Code
-
-3️⃣ Run the application
-
-Run the main class:
-
 GameMain.java
 
 🎯 Features
