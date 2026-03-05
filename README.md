@@ -1,4 +1,4 @@
-🧱 Brick Breaker Game (Java)
+🧱 Brick Breaker Game
 
 A simple Brick Breaker arcade game developed using Java. The game follows a modular 
 
