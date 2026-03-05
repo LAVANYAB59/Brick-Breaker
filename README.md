@@ -75,7 +75,7 @@ Java Modules
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/BrickBreaker.git
+git clone https://github.com/LAVANYAB59/BrickBreaker.git
 
 2️⃣ Open the project
 
